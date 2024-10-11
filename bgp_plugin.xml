@@ -1,0 +1,7 @@
+<library path="lib/liba_star_planner">
+  <class name="a_star_planner/AStarPlanner" type="a_star_planner::AStarPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A implementation of a grid based planner using  A*
+    </description>
+  </class>
+</library>
